@@ -1,1 +1,1 @@
-# Material 3 compliant presets for Aviutl 2
+# AviUtl 2 presets compliant with Material 3
